@@ -4,3 +4,4 @@ function say(){
 function say(){
     alert("Dima")
 }
+//ываывааываыа
